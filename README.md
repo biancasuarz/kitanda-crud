@@ -5,7 +5,7 @@ Este é um sistema simples para gerenciamento de uma kitanda (feira), desenvolvi
 ### 🛠️ Funcionalidades
 -Cadastro de produtos da kitanda.<br>
 -Visualização da lista de produtos.<br>
--Atualização das informações de produto<br>s.
+-Atualização das informações de produtos.<br>
 -Exclusão de produtos.<br>
 -Menu interativo para facilitar a navegação do sistema.<br>
 
