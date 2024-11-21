@@ -1,5 +1,5 @@
 # Kitanda - Sistema de Gerenciamento<br>
-📋 Descrição
+### 📋 Descrição
 Este é um sistema simples para gerenciamento de uma kitanda (feira), desenvolvido como projeto em grupo para estudos em Java. Implementamos as funcionalidades de CRUD (Criar, Ler, Atualizar e Deletar) e criamos um menu interativo para o usuário.
 <br>
 ### 🛠️ Funcionalidades
